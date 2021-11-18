@@ -43,8 +43,8 @@ body{
 
 }
 .resizerita{
-    height: 400px;
-    width: 400px;
+    height: 350px;
+    width: 350px;
     align-items: center;
 }
 #resizec{
@@ -82,6 +82,6 @@ body{
     width: auto;
 }
 .copyright{
-    color: rgb(77, 15, 15);
+    color: rgb(202, 27, 27);
     padding-left: 550px;
 }
