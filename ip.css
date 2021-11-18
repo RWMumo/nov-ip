@@ -1,5 +1,6 @@
 body{
     background-color: honeydew;
+    color: midnightblue;
     margin-left: 100px;
     margin-right: 200px;
     align-items: center;
@@ -68,12 +69,12 @@ body{
 .linef{
     color: midnightblue;
 }
-#lineh{
-    color: midnightblue;
-    
-}
+
 .resizeb{
     height: 250px;
+    width: auto; 
+}
+.cloud{
+    height: 150px;
     width: auto;
-    
 }
