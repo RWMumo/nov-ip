@@ -44,12 +44,19 @@ body{
 .resizerita{
     height: 350px;
     width: auto;
+    align-items: center;
+}
+#resizec{
+    align-items: center;
+    margin-left: 440px;
 }
 .linec{
     color: midnightblue;
     margin-left: 30px;
-    padding-left: 50%;
     padding-bottom: 100%;
+    padding-top: 30px;
+    text-align: center;
+
    
 }
 
