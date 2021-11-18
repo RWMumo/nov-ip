@@ -56,13 +56,24 @@ body{
     padding-bottom: 100%;
     padding-top: 30px;
     text-align: center;
-
-   
 }
 
 
 /* styling page3.html */
+
+.lineg{
+    color: midnightblue;
+    
+}
+.linef{
+    color: midnightblue;
+}
+#lineh{
+    color: midnightblue;
+    
+}
 .resizeb{
     height: 250px;
     width: auto;
+    
 }
