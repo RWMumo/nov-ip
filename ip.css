@@ -1,5 +1,8 @@
 body{
     background-color: honeydew;
+    margin-left: 100px;
+    margin-right: 200px;
+    align-items: center;
 }
 
 .linea{
@@ -15,15 +18,21 @@ body{
     font-size: 30px;
 }
 .resize{
+    margin-left: 500px;
     height: 250px;
-    width: 250;
-    text-align: center;
-    margin-right: 400px;
-
+    width: 250px;
+    align-items: center;
+}
+#resize{
+    height: 250px;
+    width: 250px;
+    align-items: center;
 }
 .about{
     font-size: 30px;
     text-align: center;
+    color: midnightblue;
+    margin-left: 550px;
 
 
 }
