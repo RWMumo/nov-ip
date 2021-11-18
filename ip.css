@@ -32,15 +32,12 @@ body{
     text-align: center;
     color: midnightblue;
     margin-left: 550px;
-
-
 }
 
 /* styling page2.html */
 .lined{color: midnightblue;
     text-align: center;
     font-size: 40px;
-
 }
 .resizerita{
     height: 350px;
@@ -82,6 +79,6 @@ body{
     width: auto;
 }
 .copyright{
-    color: rgb(202, 27, 27);
+    color: rgb(226, 17, 17);
     padding-left: 550px;
 }
