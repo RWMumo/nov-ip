@@ -38,7 +38,17 @@ body{
 }
 
 /* styling page2.html */
-
+.linec{
+    padding left: 40px;
+    padding right: 40px;
+    border: midnightblue;
+    border-style:dashed;
+    border-radius: 1cm;
+    float: left;
+    margin: 30px;
+    
+    
+}
 
 
 /* styling page3.html */
