@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(208, 149, 238);
+    background-color: honeydew;
 }
 
 .linea{
@@ -28,3 +28,8 @@ body{
 
 
 
+/* styling page3.html */
+.resizeb{
+    height: 250px;
+    width: auto;
+}
