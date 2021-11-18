@@ -9,9 +9,7 @@ body{
     color: midnightblue;
     font-size: 70px;
     text-align: center;
-    
 }
-
 #lineb{
     text-align: center;
     color: midnightblue;
@@ -38,16 +36,21 @@ body{
 }
 
 /* styling page2.html */
+.lined{color: midnightblue;
+    text-align: center;
+    font-size: 40px;
+
+}
+.resizerita{
+    height: 350px;
+    width: auto;
+}
 .linec{
-    padding left: 40px;
-    padding right: 40px;
-    border: midnightblue;
-    border-style:dashed;
-    border-radius: 1cm;
-    float: left;
-    margin: 30px;
-    
-    
+    color: midnightblue;
+    margin-left: 30px;
+    padding-left: 50%;
+    padding-bottom: 100%;
+   
 }
 
 
