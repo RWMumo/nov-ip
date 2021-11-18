@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(208, 149, 238);
+}
+
+.linea{
+    color: midnightblue;
+    font-size: medium;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+#lineb{
+    text-align: center;
+    color: midnightblue;
+    font-size: 30px;
+}
+.resize{
+    height: 250px;
+    width: 250;
+    text-align: center;
+
+}
+.world{
+    font-size: 100px;
+    text-align: center;
+}
+/* styling page2.html */
+
+
+
+}
