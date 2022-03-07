@@ -5,11 +5,16 @@ body{
     margin-right: 200px;
     align-items: center;
 }
+.div{
+    text-align: center;
+    
+}
 
 .linea{
     color: midnightblue;
     font-size: 70px;
     text-align: center;
+
 }
 #lineb{
     text-align: center;
@@ -31,7 +36,7 @@ body{
     font-size: 30px;
     text-align: center;
     color: midnightblue;
-    margin-left: 550px;
+    
 }
 
 /* styling page2.html */
